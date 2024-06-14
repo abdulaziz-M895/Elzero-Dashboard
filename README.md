@@ -1,6 +1,7 @@
 # Elzero Template 4 Dashboard 
 
-Welcome to the Dashboard Website repository! This project aims to provide users with a centralized platform for managing tasks, connecting with peers, tracking progress, and customizing their experience. Below is an overview of the key pages available on the dashboard website:
+I made this dashboard website to practice my HTML and CSS skills. Below is an overview of the key pages available on the dashboard website:
+
 
 ## Pages:
 
